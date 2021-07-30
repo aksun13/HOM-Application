@@ -1,0 +1,56 @@
+,Parameter Name,Parameter State,Parameter Value
+,Frame1,True,
+,optCPM,True,"True"
+,optPERT,True,"False"
+,Frame2,True,
+,Frame3,False,
+,chkRunSimulation,False,"False"
+,optCrashToSpecificTime,True,"True"
+,optCostTimeTradeOff,True,"False"
+,chkEnableCrashing,True,"True"
+,txtProjectCompletionTime,True,"22"
+,lblDesiredTime,True,
+,Label2,True,
+,txtFromRow,True,"5"
+,txtToRow,True,"24"
+,Label3,True,
+,Label4,True,
+,cmdCancel,True,"False"
+,cmdExit,True,"False"
+,cmdOK,True,"False"
+,cmdHelp,True,"False"
+,cbDrawNetwork,True,"False"
+,Label5,True,
+,DATA,Activity Code,"ResCh,ChNot,DecCh,TrGua,Fit,ChCake,Cater,RehDin,OrLace,ChPat,Sew,Press,OrInv,ChInv,SendIn,PO,Addres,Gifts,GuestL,Weddin"
+,DATA,Normal Duration,"1,17,3,10,2,2,10,1,8,3,11,2,12,3,10,1,4,1,4,1"
+,DATA,Minimum Duration,"1,10,3,2,2,2,10,1,5,3,6,1,5,3,8,1,2,1,4,1"
+,DATA,Cost per Unit,"0,14.2857142857143,0,62.5,0,0,0,0,8.33333333333333,0,120,30,5,0,100,0,25,0,0,0"
+,DATA,Optimistic Time,",,,,,,,,,,,,,,,,,,,"
+,DATA,Likely Time,",,,,,,,,,,,,,,,,,,,"
+,DATA,Pessimistic Time,",,,,,,,,,,,,,,,,,,,"
+,DATA,Pred. 1,",ResCh,ChNot,,TrGua,,ChCake,Gifts,ChPat,,OrLace,fit,ChInv,,PO,Addres,OrInv,,,DecCh"
+,DATA,Pred. 2,",,,,Sew,,,cater,,,,,,,,,GuestL,,,RehDin"
+,DATA,Pred. 3,",,,,,,,,,,,,,,,,,,,Press"
+,DATA,Pred. 4,",,,,,,,,,,,,,,,,,,,SendIn"
+,DATA,Pred. 5,",,,,,,,,,,,,,,,,,,,"
+,DATA,Pred. 6,",,,,,,,,,,,,,,,,,,,"
+,DATA,Pred. 7,",,,,,,,,,,,,,,,,,,,"
+,DATA,Pred. 8,",,,,,,,,,,,,,,,,,,,"
+,DATA,Pred. 9,",,,,,,,,,,,,,,,,,,,"
+,DATA,Pred. 10,",,,,,,,,,,,,,,,,,,,"
+,DATA,Description of Activity,",,,,,,,,,,,,,,,,,,,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
